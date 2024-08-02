@@ -1,0 +1,16 @@
+/*
+ * HEADER
+ * --logo
+ * --nav items
+ * BODY
+ * --search bar
+ * -- restaurant Container
+ *      -RestaurantCard
+ *        --img of food
+ *        --name of restaurant, start rating, cuisines, delivery etc
+ * FOOTER
+ * --copyright
+ * --social media icons
+ * --address
+ * --contact
+ */
